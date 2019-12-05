@@ -11,7 +11,7 @@ An utterly fantastic project starter template for Django 2.0.
 ## How to Use
 
 To use this project, follow these steps:
-
+ad fasd fasd fasd afsd fasd
 1. Create your working environment.
 2. Install Django (`$ pipenv install django`)
 3. Create a new project using this template
