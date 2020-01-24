@@ -2,6 +2,8 @@
 import os
 import sys
 
+# comments and stuff
+
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "helloworld.settings")
     try:
