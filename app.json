@@ -33,10 +33,12 @@
           "test": "bundle exec rake test"
         }
       },
-      "formation": {
-        "web": {
-          "quantity": 1,
-          "size": "standard-2x"
+      "review": {
+        "formation": {
+            "web": {
+                "quantity": 1,
+                "size": "standard-2x"
+            }
         }
       }
     }
